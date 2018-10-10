@@ -68,8 +68,8 @@ model_definition:
   name: MYRUN
 #Author name and email
   author:
-    name: JOHN DOE
-    email: JOHNDOE@MIT.EDU
+    name: < Your Name >
+    email: <Your email>
   description: This is running cifar training on multiple models
   execution:
 #Command to execute -- see script parameters in later section !!
